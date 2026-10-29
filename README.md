@@ -12,7 +12,7 @@
 - 📍 **Location:** Krabi, Thailand
 - 🎯 **Focus Areas:** Web Development (Frontend & Backend), UI/UX Design, IT Support & Network Basics
 - ⚙️ **Currently Learning:** PHP / MySQL, Python, C++, HTML5/CSS3, JavaScript, Git
-- ✉️ **Contact:** ig : mribxs._y |
+- ✉️ **Contact:** ig : mribxs._y 
 
 ---
 
