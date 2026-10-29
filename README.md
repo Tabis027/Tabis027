@@ -1,16 +1,18 @@
 Hi there 👋 My name is Tabis Jandee 🇹🇭
 =====================================================================================================================================
+
 🎓 About Me
 - 🏫 **Education:** Information Technology Student at **Krabi Technical College**
 - 🌍 **Location:** Based in Krabi, Thailand
-- 💻 **Interests:** Web Development, UI/UX Design & IT Support
-- 🌱 **Currently Learning:** HTML, CSS, JavaScript, PHP, Python & C++
-- 🚀 **Goal:** Developing skills to build practical digital solutions and web applications
+- 💻 **Core Interests:** Web Development (Frontend & Backend), UI/UX Design & Network/IT Support
+- 🌱 **Currently Learning:** PHP, MySQL, Python, C++, HTML5, CSS3 & Modern Web Frameworks
+- 🚀 **Goal:** Building practical web applications, improving UX/UI design skills, and preparing for future developer roles
 
 ---
 
 🛠️ Tech Stack & Tools
 
+**Languages & Web Technologies:**
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
@@ -24,6 +26,10 @@ Hi there 👋 My name is Tabis Jandee 🇹🇭
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
   </a>
+</p>
+
+**Tools & Design:**
+<p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
   </a>
@@ -31,6 +37,13 @@ Hi there 👋 My name is Tabis Jandee 🇹🇭
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
   </a>
 </p>
+
+---
+
+### 📌 Featured Projects
+- 🌐 **Personal CV Website:** Responsive digital resume built with pure HTML/CSS.
+- 📱 **Student Schedule UI Design:** Prototype for class scheduling app designed using Figma.
+- 🗄️ **Student Data System:** Basic CRUD web application created with PHP & MySQL.
 
 ---
 
