@@ -9,11 +9,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🏫 **Education:** นักศึกษา ปวช. สาขาเทคโนโลยีสารสนเทศ วิทยาลัยเทคนิคกระบี่ (Krabi Technical College)
 - 📍 **Location:** Krabi, Thailand
 - 🎯 **Focus Areas:** Web Development (Frontend & Backend), UI/UX Design, IT Support & Network Basics
 - ⚙️ **Currently Learning:** PHP / MySQL, Python, C++, HTML5/CSS3, JavaScript, Git
-- ✉️ **Contact:** [68219010027@kbtc.ac.th](mailto:68219010027@kbtc.ac.th) | 📞 098-437-4336
+- ✉️ **Contact:** ig : mribxs._y |
 
 ---
 
